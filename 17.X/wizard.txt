@@ -1,8 +1,12 @@
+id="plugin.program.SimpleBuildWizard-0.0.2"
+version="0.0.1"
+zip="http://thelittleguysco.net/kodi/plugin.program.SimpleBuildWizard-0.0.2"
+
 name="Kodiflix Test"
 version="3.2"
 url="https://www.dropbox.com/s/9uuqeyntn75ga5f/Kodiflix.zip?dl=1"
 gui="http://"
-kodi="17.3"
+kodi=""
 theme="http://"
 icon="https://raw.githubusercontent.com/Pointe/WIZARD16-17/master/Netflix1.PNG"
 fanart="https://raw.githubusercontent.com/Pointe/WIZARD16-17/master/Netflix.PNG"
@@ -15,16 +19,10 @@ name="Netflixtest"
 version="1.2"
 url="https://www.dropbox.com/s/g35g7wlwiukss3z/Netflix.zip?dl=1"
 gui="http://"
-kodi="17.6"
+kodi=""
 theme="http://"
 icon="https://raw.githubusercontent.com/Pointe/WIZARD16-17/master/Netflix1.PNG"
 fanart="https://raw.githubusercontent.com/Pointe/WIZARD16-17/master/Netflix.PNG"
 preview="http://"
 adult="no"
 description="Netflix Style build with all the popular apps to watch your favorite movies and tv shows."
-
-
-
-
-
-

@@ -1,4 +1,14 @@
-
+name="Kodiflix Test"
+version="3.2"
+url="https://www.dropbox.com/s/9uuqeyntn75ga5f/Kodiflix.zip?dl=1"
+gui="http://"
+kodi="17.3"
+theme="http://"
+icon="https://raw.githubusercontent.com/Pointe/WIZARD16-17/master/Netflix1.PNG"
+fanart="https://raw.githubusercontent.com/Pointe/WIZARD16-17/master/Netflix.PNG"
+preview="http://"
+adult="no"
+description="Test mit iptv"
 
 
 name="Netflixtest"
@@ -49,13 +59,7 @@ description="Netflix Style build with all the popular apps to watch your favorit
 <p>description="Andy-Builds 17.5"</p>
 <body>
   
-<body>
-<p>name="Kodiflix Test"
-<p>url="https://www.dropbox.com/s/g35g7wlwiukss3z/Netflix.zip?dl=1"</p>
-<p>img="https://raw.githubusercontent.com/Pointe/WIZARD16-17/master/Netflix.PNG</p>
-<p>fanart="https://raw.githubusercontent.com/Pointe/WIZARD16-17/master/Netflix1.PNG"</p>
-<p>description="Netflix Test Skin mit IPTV"</p>
-<body>
+
 <html>
 
 

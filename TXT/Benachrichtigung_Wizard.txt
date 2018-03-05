@@ -13,7 +13,7 @@
 ****************************************************************
 
 
-[COLOR red]######################ACHTUNG######################[/COLOR]
+[COLOR red]######################[size=14]ACHTUNG[/size]######################[/COLOR]
 
 
 [COLOR red]In den Build sind Addons von drittanbieter.[/COLOR]

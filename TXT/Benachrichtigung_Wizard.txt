@@ -13,7 +13,7 @@
 ****************************************************************
 
 
-[COLOR red]######################[size=14]ACHTUNG[/size]######################[/COLOR]
+[COLOR red]######################ACHTUNG######################[/COLOR]
 
 
 [COLOR red]In den Build sind Addons von drittanbieter.[/COLOR]
@@ -25,6 +25,8 @@
 [COLOR red]######################ACHTUNG######################[/COLOR]
 
 
+
+[COLOR purple]OSIRIS WIZARD:[/COLOR]
 
 [COLOR purple]ver.0.0.5[/COLOR]
 

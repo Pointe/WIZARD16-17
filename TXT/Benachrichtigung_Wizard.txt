@@ -1,0 +1,30 @@
+1
+|||
+
+
+[COLOR blue]Wilkommen beim Osiris WIZARD[/COLOR]
+[COLOR blue]HIER KANNST DU UNSERE BUILD INSTALLIEREN UND ZUGANG ZU RETRO GAMING ERHALTEN[/COLOR]
+[COLOR blue]WENN SIE FRAGEN ZU DEM ADDON ODER ZUR APP HABT, BITTEN  AUF UNSERER FACEBOOK-SEITE MELDE[/COLOR]
+****************************************************************
+*[COLOR lime]https://www.facebook.com/groups/Osiris/[/COLOR]    *
+****************************************************************
+
+
+[COLOR red]######################ACHTUNG######################[/COLOR]
+
+
+[COLOR red]In den Build sind Addons von drittanbieter.[/COLOR]
+[COLOR red]ES WIRD KEINE HAFTUNG FÜR DEREN INHALTE ÜBERNOMMEN[/COLOR]
+
+[COLOR red]INSTALLATION AUF EIGEN VERANTWORTUNG[/COLOR]
+[COLOR red]######################ACHTUNG######################[/COLOR]
+
+
+
+[COLOR purple]ver.0.0.5[/COLOR]
+
++ Benachrichtigung hinzugefügt
++ Wizard auf Deutsch gestellt
++ Speedtest hinzugefügt
++ APP und ROM Downloader hinzugefügt
++ Wizard update benachrichtigung

@@ -13,7 +13,7 @@
 ****************************************************************
 
 
-[COLOR red]######################ACHTUNG######################[/COLOR]
+######################[COLOR red]ACHTUNG[/COLOR]######################
 
 
 [COLOR red]In den Build sind Addons von drittanbieter.[/COLOR]
@@ -22,7 +22,7 @@
 
 [COLOR red]INSTALLATION AUF EIGEN VERANTWORTUNG[/COLOR]
 
-[COLOR red]######################ACHTUNG######################[/COLOR]
+######################[COLOR red]ACHTUNG[/COLOR]######################
 
 
 

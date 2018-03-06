@@ -1,6 +1,6 @@
-﻿id="plugin.program.SimpleBuildWizard-0.0.2"
-version="0.0.1"
-zip="http://thelittleguysco.net/kodi/plugin.program.SimpleBuildWizard-0.0.2"
+id="plugin.plugin.program.OsirisWizard"
+version="0.0.5"
+zip="https://github.com/Pointe/REPO2/blob/master/REPO2/plugin.program.OsirisWizard/plugin.program.OsirisWizard-0.0.5.zip"
 
 name="Netflix_OSIRIS"
 version="1.4"

@@ -1,5 +1,5 @@
 id="plugin.program.OsirisWizard"
-version="0.0.6"
+version="0.0.5"
 zip="https://www.dropbox.com/s/kokq81n3gyrcl7q/plugin.program.OsirisWizard.zip?dl=1"
 
 name="Netflix_OSIRIS"

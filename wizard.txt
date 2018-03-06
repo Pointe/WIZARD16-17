@@ -1,6 +1,6 @@
 id="plugin.plugin.program.OsirisWizard"
 version="0.0.5"
-zip="https://github.com/Pointe/REPO2/blob/master/REPO2/plugin.program.OsirisWizard/plugin.program.OsirisWizard-0.0.5.zip"
+zip="https://github.com/Pointe/WIZARD16-17/blob/master/ZIP/plugin.program.OsirisWizard.zip?raw=true"
 
 name="Netflix_OSIRIS"
 version="1.4"

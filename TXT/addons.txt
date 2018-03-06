@@ -1,0 +1,12 @@
+
+name="Osiris Wizard"
+plugin="plugin.program.OsirisWizard"
+url="https://raw.githubusercontent.com/Pointe/REPO2/tree/master/REPO2/plugin.program.OsirisWizard"
+repository="repository.ANDY"
+repositoryxml="https://raw.githubusercontent.com/Pointe/REPO2/master/REPO2/addons.xml"
+repositoryurl="https://github.com/Pointe/REPO2/raw/master/REPO2/"
+icon="https://raw.githubusercontent.com/Pointe/REPO2/master/REPO2/plugin.program.OsirisWizard/icon.png"
+fanart="https://raw.githubusercontent.com/Pointe/REPO2/master/REPO2/plugin.program.OsirisWizard/fanart.jpg"
+adult="No"
+description="Osiris Wizard"
+

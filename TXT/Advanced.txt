@@ -1,0 +1,14 @@
+
+name="1 GB"
+section="no"
+url="http://build.hsk-kodi.at/advancedsettings/1gbwlan/advancedsettings.xml"
+icon="http://" 
+fanart="http://"
+description="2 Gig Ram Advanced Settings"
+
+name="2 GB"
+section="no"
+url="http://build.hsk-kodi.at/advancedsettings/2gbwlan/advancedsettings.xml"
+icon="http://" 
+fanart="http://"
+description="2 Gig Ram Advanced Settings"

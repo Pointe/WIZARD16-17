@@ -1,4 +1,4 @@
-name="How to install wolfpack addon"
+name="How to guides"
 url="https://www.youtube.com/watch?v=OL5WM15Mk-M"
 icon="http://"
 fanart="https://"

@@ -1,8 +1,17 @@
-name="How to guides"
-url="https://www.youtube.com/watch?v=OL5WM15Mk-M"
-icon="http://"
-fanart="https://"
-description="Guide to installing wolfpack addon"
+
+name="How to Update or Switch Builds"
+section="no"
+url="https://www.youtube.com/watch?v=WYPNbiO895k"
+icon="http://mbmantech.com/Wizard/Wiz_Images/Tutorial.jpg"
+fanart="http://mbmantech.com/Wizard/Images/ConBack.jpg"
+description="This Video Shows how to Update or Switch Builds[CR]Using Fresh Install"
+
+name="How to Set Up Trakt"
+section="no"
+url="https://www.youtube.com/watch?v=j1rvPbQlc-M"
+icon="http://mbmantech.com/Wizard/Wiz_Images/Tutorial.jpg"
+fanart="http://mbmantech.com/Wizard/Images/ConBack.jpg"
+description="Shows How to Set Up a Trakt Account and Save Login in the Wizard"
 
 
 

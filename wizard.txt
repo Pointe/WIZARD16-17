@@ -28,7 +28,7 @@ description="Netflix Style build "
 
 
 name="AEON-vertikal"
-version="1.1"
+version="1.2"
 url="https://www.dropbox.com/s/52gwwn3t09crcpy/AEON-vertikal.zip?dl=1"
 gui="http://"
 kodi="17.6"
@@ -41,7 +41,7 @@ description="AEON NOX vertikal"
 
 
 name="AEON-horizontal"
-version="1.0"
+version="1.2"
 url="https://www.dropbox.com/s/l32592epuzd5zoo/AEON-Horizontal.zip?dl=1"
 gui="http://"
 kodi="17.6"
@@ -54,7 +54,7 @@ description="AEON NOX horizontal"
 
 
 name="Osiris Light"
-version="1.0"
+version="1.1"
 url="https://www.dropbox.com/s/dn0zyfwi0ejin80/Light.zip?dl=1"
 gui="http://"
 kodi="17.6"

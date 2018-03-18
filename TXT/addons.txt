@@ -10,3 +10,15 @@ fanart="https://raw.githubusercontent.com/Pointe/REPO2/master/REPO2/plugin.progr
 adult="No"
 description="Osiris Wizard"
 
+name="Osiris REPO"
+plugin="repository.Osiris"
+url="https://raw.githubusercontent.com/Pointe/REPO2/tree/master/REPO2/repository.Osiris"
+repository="repository.Osiris"
+repositoryxml="https://raw.githubusercontent.com/Pointe/REPO2/master/REPO2/addons.xml"
+repositoryurl="https://github.com/Pointe/REPO2/raw/master/REPO2/"
+icon="https://raw.githubusercontent.com/Pointe/REPO2/master/REPO2/repository.Osiris/icon.png"
+fanart="https://raw.githubusercontent.com/Pointe/REPO2/master/REPO2/plugin.program.OsirisWizard/fanart.jpg"
+adult="No"
+description="Osiris REPO"
+
+

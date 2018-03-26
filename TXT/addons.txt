@@ -12,7 +12,7 @@ description="Osiris Wizard"
 
 name="Osiris REPO"
 plugin="repository.Osiris"
-url="https://raw.githubusercontent.com/Pointe/REPO2/tree/master/REPO2//repository.Osiris"
+url="https://github.com/Pointe/REPO2/raw/master/REPO2/repository.Osiris/repository.Osiris-1.0.0.zip"
 repository="repository.Osiris"
 repositoryxml="https://raw.githubusercontent.com/Pointe/REPO2/master/REPO2/addons.xml"
 repositoryurl="https://github.com/Pointe/REPO2/raw/master/REPO2/"

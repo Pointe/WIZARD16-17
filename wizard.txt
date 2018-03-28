@@ -4,7 +4,7 @@ zip="https://www.dropbox.com/s/kokq81n3gyrcl7q/plugin.program.OsirisWizard.zip?d
 
 name="Netflix_OSIRIS"
 version="1.4"
-url="1https://www.dropbox.com/s/9uuqeyntn75ga5f/Kodiflix.zip?dl=1"
+url="https://www.dropbox.com/s/9uuqeyntn75ga5f/Kodiflix.zip?dl=1"
 gui=""
 kodi="17.6"
 theme="http://"

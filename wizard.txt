@@ -79,7 +79,7 @@ description="Apple TV skin"
 
 name="KODI 18"
 version="1.0"
-url="https://www.dropbox.com/s/v2j0hk89sxqufeh/KODI18.zip?dl=1"
+url="https://www.dropbox.com/s/z47n8j3mkyi9l6v/KODI181.zip?dl=1"
 gui="http://"
 kodi="18"
 theme="http://"

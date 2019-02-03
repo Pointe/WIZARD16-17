@@ -77,4 +77,16 @@ preview="http://"
 adult="no"
 description="Apple TV skin"
 
+name="KODI 18"
+version="1.0"
+url="https://www.dropbox.com/s/v2j0hk89sxqufeh/KODI18.zip?dl=1"
+gui="http://"
+kodi="18"
+theme="http://"
+icon="https://www.computerhilfen.de/news/wp-content/uploads/2019/01/kodi-18-leia.jpg"
+fanart="https://fossbytes.com/wp-content/uploads/2019/01/Kodi-18-Leia.jpeg"
+preview="http://"
+adult="no"
+description="Kodi 18 Pointecker"
+
 

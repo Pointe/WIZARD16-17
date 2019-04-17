@@ -18,20 +18,6 @@ adult="No"
 description="Ein Build für die schwächeren Geräte wie zb. den Amazon Stick!"
 
 
-
-name="KODI 18 BETA"
-version="1.0"
-url="https://www.dropbox.com/s/v2j0hk89sxqufeh/KODI18.zip?dl=1"
-gui="http://"
-kodi="18"
-theme="http://"
-icon="https://cdn.pixabay.com/photo/2014/06/03/19/38/road-sign-361514_960_720.png"
-fanart="https://cdn.pixabay.com/photo/2014/06/03/19/38/road-sign-361514_960_720.png"
-preview="http://"
-adult="no"
-description="Kodi 18 TEST"
-
-
 name="KODI 18"
 version="1.0"
 url="https://www.dropbox.com/s/v2j0hk89sxqufeh/KODI18.zip?dl=1"
@@ -43,6 +29,22 @@ fanart="https://fossbytes.com/wp-content/uploads/2019/01/Kodi-18-Leia.jpeg"
 preview="http://"
 adult="no"
 description="Kodi 18 "
+
+
+name="KODI 18 BETA"
+version="0.1"
+url="https://www.dropbox.com/s/v2j0hk89sxqufeh/KODI18.zip?dl=1"
+gui="http://"
+kodi="18"
+theme="http://"
+icon="https://cdn.pixabay.com/photo/2014/06/03/19/38/road-sign-361514_960_720.png"
+fanart="https://cdn.pixabay.com/photo/2014/06/03/19/38/road-sign-361514_960_720.png"
+preview="http://"
+adult="no"
+description="Kodi 18 TEST"
+
+
+
 
 
 

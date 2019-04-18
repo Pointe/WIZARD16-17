@@ -1,6 +1,6 @@
-id="plugin.program.OsirisWizard"
-version="0.1.0"
-zip="https://www.dropbox.com/s/kokq81n3gyrcl7q/plugin.program.OsirisWizard.zip?dl=1"
+id="plugin.program.Osiris-18"
+version="1.0.1"
+zip="http://qwertz1.ddns.net/a/plugin.program.Osiris-18.zip"
 
 
 

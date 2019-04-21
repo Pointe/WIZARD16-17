@@ -20,7 +20,7 @@ description="Ein Build für die schwächeren Geräte wie zb. den Amazon Stick!"
 
 name="KODI 18 Lorie"
 version="1.0"
-url="https://www.dropbox.com/s/n8blfm1vt96vbj8/plugin.program.Osiris-18.zip?dl=1"
+url="https://www.dropbox.com/s/g546r3lgo6qwn7v/18.zip?dl=1"
 gui="http://"
 kodi="18"
 theme="http://"

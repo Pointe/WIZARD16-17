@@ -45,6 +45,20 @@ description="Kodi 18 TEST"
 
 
 
+name="KODI 18 Light"
+version="1.0"
+url="https://www.dropbox.com/s/it66uc68bvex5pc/Kodi18Light.zip?dl=1"
+gui="http://"
+kodi="18"
+theme="http://"
+icon="https://www.inpunkto4you.de/wp-content/uploads/2014/10/Getr%C3%A4nke.jpg"
+fanart="https://www.firesticktricks.com/wp-content/uploads/2019/04/pellucid-kodi-skin.jpg"
+preview="http://"
+adult="no"
+description="Kodi 18 light "
+
+
+
 
 
 

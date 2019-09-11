@@ -1,6 +1,6 @@
-id="plugin.program.Osiris-18"
-version="1.0.1"
-zip="http://qwertz1.ddns.net/a/plugin.program.Osiris-18.zip"
+id="plugin.program.Osiris-Punisher-wizard"
+version="1.0.9"
+zip="https://www.dropbox.com/s/r7r3e7zh6x6l5ls/plugin.program.Osiris-Punisher-wizard.zip?dl=1"
 
 
 

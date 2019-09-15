@@ -1,5 +1,5 @@
 id="plugin.program.Osiris-Punisher-wizard"
-version="1.0.9"
+version="1.0.0"
 zip="https://www.dropbox.com/s/r7r3e7zh6x6l5ls/plugin.program.Osiris-Punisher-wizard.zip?dl=1"
 
 

@@ -46,7 +46,7 @@ description="Kodi 18 TEST"
 
 
 name="KODI 18 Light"
-version="1.1"
+version="1.2"
 url="https://www.dropbox.com/s/it66uc68bvex5pc/Kodi18Light.zip?dl=1"
 gui="http://"
 kodi="18"

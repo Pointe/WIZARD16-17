@@ -46,7 +46,7 @@ description="Kodi 18 TEST"
 
 
 name="KODI 18 Light"
-version="1.2"
+version="1.3"
 url="https://www.dropbox.com/s/it66uc68bvex5pc/Kodi18Light.zip?dl=1"
 gui="http://"
 kodi="18"
@@ -56,6 +56,20 @@ fanart="https://www.firesticktricks.com/wp-content/uploads/2019/04/pellucid-kodi
 preview="http://"
 adult="no"
 description="Kodi 18 light "
+
+
+
+name="KODI 18 Light +Musik start"
+version="1.3"
+url="https://www.dropbox.com/s/1kr6df7e443bfnh/Kodi18Light%2B.zip?dl=1"
+gui="http://"
+kodi="18"
+theme="http://"
+icon="https://img.rewe-static.de/1293119/20709672_digital-image.png"
+fanart="https://www.firesticktricks.com/wp-content/uploads/2019/04/pellucid-kodi-skin.jpg"
+preview="http://"
+adult="no"
+description="Kodi 18 light + Musik Start"
 
 
 
